@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 16px;
+	background-color: #ff69b4;
+	margin: auto;
+	width: auto;
+
+}
+
+.capa {
+	background-color: #000000;
+}
+
+#menu {
+	background: #ff69b4;
+	padding: 18px;
+	text-align: center;
+}
+
+.title {
+	background-color: #ffb6c1;
+	text-align: center;
+
+}
+
+.sobre {
+	width: auto;
+	background-color: #ffc0cb;
+	padding: 5px;
+	text-justify: auto;
+	font-size: 18px;
+
+}
+
+
+.images {
+	width: 700px;
+	padding: auto;
+	margin-left: 15%;
+
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+
+}
+
+h1 {
+	color: #000000;
+	font-size: 1.2em;
+}
+
+.img-campanha {
+	width: 300px;
+}
+
+.img-contato {
+	width: 300px;
+}
+
+.social img {
+	width: 30px;
+	padding: 5px;
+}
